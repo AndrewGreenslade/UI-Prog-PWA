@@ -4,7 +4,16 @@ var filesToCache = [
   './index.html',
   './controller.html',
   './css/push.css',
-  './js/script.js'
+  './js/script.js',
+  './Img/GrassTexture.jpg',
+  './Img/DeathScreen.png',
+  './Img/Coin.png',
+  './Img/1to6.png',
+  './Img/SpriteSheet.png',
+  './Img/SpriteSheetNone.png',
+  './Img/SpriteSheetStick.png',
+  './Img/SpriteSheetSword.png',
+  './Img/WinScreen.png'
 ];
 
 /* Cache contents when Offline See Cache */
