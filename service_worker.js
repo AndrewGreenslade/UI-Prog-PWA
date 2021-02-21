@@ -1,9 +1,10 @@
 var cacheName = 'AndrewG-pwa';
 var filesToCache = [
-  '/index.html',
-  '/controller.html',
-  '/css/push.css',
-  '/js/script.js'
+  './',
+  './index.html',
+  './controller.html',
+  './css/push.css',
+  './js/script.js'
 ];
 
 /* Cache contents when Offline See Cache */
