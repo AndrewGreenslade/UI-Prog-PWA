@@ -1,6 +1,5 @@
 var cacheName = 'AndrewG-pwa';
 var filesToCache = [
-  '/',
   '/index.html',
   '/controller.html',
   '/css/push.css',
