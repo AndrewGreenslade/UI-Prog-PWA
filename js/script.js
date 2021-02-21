@@ -177,13 +177,13 @@ document.getElementById("MeleeButton").addEventListener("touchend", MeleeButtonD
 document.getElementById("buttonUp").addEventListener("touchstart", UpbuttonOnClick, {passive: true});
 document.getElementById("buttonUp").addEventListener("touchend", ButtonUp);
 
-document.getElementById("buttonLeft").addEventListener("touchstart", UpbuttonOnClick, {passive: true});
+document.getElementById("buttonLeft").addEventListener("touchstart", LeftbuttonOnClick, {passive: true});
 document.getElementById("buttonLeft").addEventListener("touchend", ButtonUp, {passive: true});
 
-document.getElementById("buttonRight").addEventListener("touchstart", UpbuttonOnClick, {passive: true});
+document.getElementById("buttonRight").addEventListener("touchstart", RightbuttonOnClick, {passive: true});
 document.getElementById("buttonRight").addEventListener("touchend", ButtonUp, {passive: true});
 
-document.getElementById("buttonDown").addEventListener("touchstart", UpbuttonOnClick, {passive: true});
+document.getElementById("buttonDown").addEventListener("touchstart", DownbuttonOnClick, {passive: true});
 document.getElementById("buttonDown").addEventListener("touchend", ButtonUp, {passive: true});
 
 
