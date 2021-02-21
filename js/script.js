@@ -40,7 +40,6 @@ function onPageLoad()
 	
 	xmlhttp.open("GET", "./data/level.json", true);
 	xmlhttp.send();
-	
 }
 
 var queryString = window.location.search;
